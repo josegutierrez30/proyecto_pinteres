@@ -188,14 +188,17 @@ nav {
 
 .section-4 {
     margin-top: 150px;
+    padding: 30px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    background: rgb(189, 186, 186);
     /* border: 2px solid black; */
 }
 
 .section-4 .div-1 {
-    font-size: small;
+    font-size: medium;
+    font-weight: 500;
 
 }
 
@@ -214,7 +217,4 @@ nav {
     justify-content: baseline;
     border-radius: 50px;
     gap: 20px;
-
 }
-
-
